@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="Circle">
+        <attr name="posID" format="integer"/>
+        <attr name="circleColor" format="color"/>
+        <attr name="cleRadius" format="integer"/>
+    </declare-styleable>
+
+    <declare-styleable name="RecordBlock">
+        <attr name="color_record" format="enum"/>
+        <attr name="answer_record" format="enum"/>
+    </declare-styleable>
+
+    <declare-styleable name="CustomLayoutLP">
+        <attr name="android:layout_gravity" />
+        <attr name="layout_position">
+            <enum name="middle" value="0" />
+            <enum name="left" value="1" />
+            <enum name="right" value="2" />
+        </attr>
+    </declare-styleable>
+</resources>

@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Mastermind</string>
+    <string name="game_title">Mastermind</string>
+    <string name="start_button_text">Start</string>
+    <string name="input_content_des">input slots</string>
+    <string name="menu_title">Menu</string>
+    <string name="home_button_text">Home</string>
+    <string name="back_button_text">Back</string>
+    <string name="rest_button_text">Reset</string>
+    <string name="confirm_button_text">Yes</string>
+    <string name="deny_button_text">No</string>
+    <string name="play_again_button_text">Again</string>
+    <string name="lose_statement">You Lose!</string>
+    <string name="win_statement">You Win!</string>
+    <string name="hint_title">Need Hint?</string>
+</resources>
